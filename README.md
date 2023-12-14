@@ -10,3 +10,4 @@ docker-compose up -d
 
 http://localhost:3000/
 起動確認
+envファイルは各自で用意
