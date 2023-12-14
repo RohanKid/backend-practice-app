@@ -10,7 +10,3 @@ docker-compose up -d
 
 http://localhost:3000/
 起動確認
-
-## TypescriptとExpressでSwaggerUIとおなじバックエンドを開発
-
-## クリーンアーキテクチャにリファクタリング
